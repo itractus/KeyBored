@@ -5,7 +5,7 @@ A brand new Keyboard
 
 	- USB Type C connector
 	- WRGB LED backligt
--	- seperate LED for Caps, Scroll, Num -lock
+	- seperate LED for Caps, Scroll, Num -lock
 	- N-key Rollover
 	- 105 Key ISO
 	- USB Hub
