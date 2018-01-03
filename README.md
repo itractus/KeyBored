@@ -11,3 +11,6 @@ A brand new Keyboard
 	- USB Hub
 	- Volume knob
 	- Media controls seperate
+
+# Credits
+https://github.com/XenGi		for his teensy KiCAD files
