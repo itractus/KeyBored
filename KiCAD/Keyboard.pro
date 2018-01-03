@@ -1,4 +1,4 @@
-update=3/01/2018 9:45:06
+update=3/01/2018 15:44:28
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,5 +60,7 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=Libraries/teensy_library-master/teensy
+LibName34=Libraries/kicad_lib_tmk-master/keyboard_parts
+LibName35=Libraries/kicad_lib_tmk-master/mkl27z256vfm4
 [general]
 version=1

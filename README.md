@@ -1,4 +1,4 @@
-# Keyboard
+# Keybored
 A brand new Keyboard with all you need and more!
 
 # Wishlist
@@ -11,6 +11,7 @@ A brand new Keyboard with all you need and more!
 	- USB Hub
 	- Volume knob
 	- Media controls seperate
+	- OLED programmable display
 
 # Vision
 For prototyping purposes I will be using a ATmega32u4 to connect all switches. There are loads of people who did this before, so this is well documented. 
