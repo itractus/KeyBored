@@ -1,4 +1,4 @@
-update=4/01/2018 11:25:55
+update=4/01/2018 16:10:18
 version=1
 last_client=eeschema
 [general]
@@ -29,7 +29,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=Libraries/keebs.pretty-master;Libraries/keyboard_parts.pretty-master;Libraries/kicad_lib_tmk-master;Libraries/teensy.pretty-master;Libraries/teensy_library-master
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -63,3 +63,4 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
+LibName33=Keyboard-cache
