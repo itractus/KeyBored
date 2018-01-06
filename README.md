@@ -19,11 +19,10 @@ For the LED's I might be able to use the WS2811 from adafriut for individual LED
 
 I have no idea on how to interconnect these chips, so the next step is creating a sketch in KiCAD and troubleshooting with the hivemind
 The goal is to have programmable LEDs. The Seperate Caps, Scroll, Num -lock keys will need to be programmed seperate, if that is even possible.
-
+Maybe using an arduino to prototype all features is a good idea.
 # Layout
 For the exact details on the planned layout of the keyboard you can look at Keybored.kbd.json in the Layout folder, import it in [ijprest's Keyboard layout Editor][1] or click [Here][2]
 
-Maybe using an arduino to prototype all features is a good idea.
 # Credits
 https://github.com/XenGi		for his teensy KiCAD files.
 
