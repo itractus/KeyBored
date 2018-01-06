@@ -22,7 +22,7 @@ The goal is to have programmable LEDs. The Seperate Caps, Scroll, Num -lock keys
 Maybe using an arduino to prototype all features is a good idea.
 # Layout
 ![The current layout][2]
-For the exact details on the planned layout of the keyboard you can look at Keybored.kbd.json in the Layout folder, import it in [ijprest's Keyboard layout Editor][3] or click [Here][4]
+For the exact details on the planned layout of the keyboard you can look at Keybored.kbd.json in the Layout folder and import it in [ijprest's Keyboard layout Editor][3] or click [Here][4]
 
 # Credits
 https://github.com/XenGi		for his teensy KiCAD files.
