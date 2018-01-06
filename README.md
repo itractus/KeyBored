@@ -27,5 +27,7 @@ Maybe using an arduino to prototype all features is a good idea.
 # Credits
 https://github.com/XenGi		for his teensy KiCAD files
 https://github.com/ijprest/keyboard-layout-editor	For a wonderfull tool that helps me a lot with this project.
+
+
 [1]: http://www.keyboard-layout-editor.com/
 [2]: http://bit.ly/2CwxKNn
