@@ -25,7 +25,8 @@ For the exact details on the planned layout of the keyboard you can look at Keyb
 
 Maybe using an arduino to prototype all features is a good idea.
 # Credits
-https://github.com/XenGi		for his teensy KiCAD files
+https://github.com/XenGi		for his teensy KiCAD files.
+
 https://github.com/ijprest/keyboard-layout-editor	For a wonderfull tool that helps me a lot with this project.
 
 
