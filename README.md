@@ -31,7 +31,7 @@ https://github.com/ijprest/keyboard-layout-editor	For a wonderfull tool that hel
 
 
 [1]: https://cdn-shop.adafruit.com/datasheets/WS2811.pdf
-[2]: https://ptpimg.me/xa2t9y.png
+[2]: https://ptpimg.me/k7str3.png
 
 [3]: http://www.keyboard-layout-editor.com/
 [4]: http://bit.ly/2CwxKNn
